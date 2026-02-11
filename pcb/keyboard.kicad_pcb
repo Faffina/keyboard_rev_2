@@ -61199,18 +61199,6 @@
 		(uuid "24159f1a-6f4a-4424-9c34-06b90e8bc1d4")
 	)
 	(gr_text "${REFERENCE}"
-		(at 82.9915 85.6625 0)
-		(layer "B.Fab")
-		(uuid "032c8e9c-95d3-4a4d-9ca5-4ef9e8404c75")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.12)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "${REFERENCE}"
 		(at 102.0415 104.7125 0)
 		(layer "B.Fab")
 		(uuid "04cb4ec5-26d4-4bee-b5b8-bad6013f1a46")
@@ -61226,6 +61214,18 @@
 		(at 102.0415 85.6625 0)
 		(layer "B.Fab")
 		(uuid "37ea1554-df83-4de4-8c40-549cfc017907")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 82.9915 85.6625 0)
+		(layer "B.Fab")
+		(uuid "9e407729-1879-457f-90f7-35f40058bc1f")
 		(effects
 			(font
 				(size 0.8 0.8)
